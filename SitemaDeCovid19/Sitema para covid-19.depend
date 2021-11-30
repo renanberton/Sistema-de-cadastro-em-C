@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1637099805 source:c:\users\hp\documents\sitema para covid-19\funcutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dirent.h>
+
+1637100793 source:c:\users\hp\documents\sitema para covid-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcUtils.h"
+
+1635881197 c:\users\hp\documents\sitema para covid-19\funcutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcUtils.h"
+
+1637100715 c:\users\hp\documents\sitema para covid-19\funcutils.h
+
+1637374992 source:c:\users\usuario\documents\cursos\pim 4\sitema para covid-19\funcutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dirent.h>
+
+1637188798 source:c:\users\usuario\documents\cursos\pim 4\sitema para covid-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcUtils.h"
+
+1637190357 c:\users\usuario\documents\cursos\pim 4\sitema para covid-19\funcutils.h
+
+1637460934 source:c:\users\usuario\documents\cursos\repositorio\sitemadecovid19\funcutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dirent.h>
+
+1637458274 source:c:\users\usuario\documents\cursos\repositorio\sitemadecovid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcUtils.h"
+
+1637458183 c:\users\usuario\documents\cursos\repositorio\sitemadecovid19\funcutils.h
+
+1637676376 source:c:\users\win\desktop\git covid\sitemadecovid19\sitemadecovid19\funcutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dirent.h>
+
+1637632292 source:c:\users\win\desktop\git covid\sitemadecovid19\sitemadecovid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcUtils.h"
+
+1637631803 c:\users\win\desktop\git covid\sitemadecovid19\sitemadecovid19\funcutils.h
+
+1637469607 source:c:\users\hp\documents\sistema para covid-19_2\sitema para covid-19\funcutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dirent.h>
+
+1637468075 source:c:\users\hp\documents\sistema para covid-19_2\sitema para covid-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcUtils.h"
+
+1637461756 c:\users\hp\documents\sistema para covid-19_2\sitema para covid-19\funcutils.h
+
